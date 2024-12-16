@@ -1,0 +1,1 @@
+# image-customizer-image-resize
